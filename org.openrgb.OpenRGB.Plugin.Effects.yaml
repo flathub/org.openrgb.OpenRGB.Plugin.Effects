@@ -22,6 +22,6 @@ modules:
     sources:
       - type: git
         url: https://gitlab.com/OpenRGBDevelopers/OpenRGBEffectsPlugin
-        tag: release_1.0
-        commit: 0e0f1b4708c302bad4270ab62349b2efe5dcc439
+        tag: release_1.1
+        commit: f211d08afd3382318e60f829348b25c6e15fb0ae
 
